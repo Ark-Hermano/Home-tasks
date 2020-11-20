@@ -1,0 +1,41 @@
+
+
+body{
+    color:green;
+    background: rgb(1,1,1);
+
+}
+
+ul{
+  padding: 30px;
+  display: inline-block;
+  list-style: none;
+  background: rgba(255,255,255,0.1);
+  height: 80%;
+ 
+  
+}
+
+div{ 
+  position: relative;	
+  height: 250px ;
+  margin: 10% 40% 10% 40% ;
+  width: 250px;
+
+}
+
+a{
+     text-decoration:  none;
+     color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
